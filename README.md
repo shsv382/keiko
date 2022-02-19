@@ -1,2 +1,3 @@
 # keiko-corp
-The greatest company ever created
+
+Sample project about my knowledge of basics frontend optimization techniques
